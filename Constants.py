@@ -1,7 +1,7 @@
 
 
-HEIGHT = 500
-WIDTH = 1000
+HEIGHT = 510 # Try these values multiply of 15. (Because of grid gap)
+WIDTH = 1005
 
 
 Learning_Rate = 0.0004 
