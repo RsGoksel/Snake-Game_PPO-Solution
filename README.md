@@ -37,6 +37,13 @@ $ python train.py
 Also, you can alter the constant variables from Constants.py file Especially PPO hyperparameters.
 
 
+# AgentPlay
+![Agent](https://github.com/RsGoksel/Snake-Game_PPO-Solution/assets/80707238/429fb406-f7fb-45a6-bf85-f9bea9606df2)
+
+
+
+
+
 
 
  
